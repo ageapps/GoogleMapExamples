@@ -1,5 +1,5 @@
 # GoogleMapExamples
-Using [Google Maps API Demos] project, here there are more examples using [Google Maps API v2].
+Extending [Google Maps API Demos] project, here there are more examples using [Google Maps API v2].
 
 
 ### New Examples
